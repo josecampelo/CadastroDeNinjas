@@ -1,0 +1,17 @@
+[33mcommit a4d66848cf8c650349c0114cf497ff696bdc8b50[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Campelo <josecampelojr@gmail.com>
+Date:   Wed Jan 22 15:31:26 2025 -0300
+
+    Criação de uma entidade no banco de dados apartir do Ninja Model na aula 5
+
+[33mcommit d574ca228e66b98431f01b6df0a4f7eac504097a[m
+Author: Campelo <josecampelojr@gmail.com>
+Date:   Tue Jan 21 23:35:35 2025 -0300
+
+    Criando uma controller para testar o recebimento de um GET
+
+[33mcommit 1d79f82941df6a1cb880cd56e17583e0beb777b0[m
+Author: unknown <josecampelojr@gmail.com>
+Date:   Mon Jan 20 14:29:47 2025 -0300
+
+    Inicializando o repositório
