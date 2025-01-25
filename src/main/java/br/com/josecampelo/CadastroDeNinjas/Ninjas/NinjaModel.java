@@ -2,9 +2,15 @@ package br.com.josecampelo.CadastroDeNinjas.Ninjas;
 
 import br.com.josecampelo.CadastroDeNinjas.Missoes.MissaoModel;
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
 @Table(name = "tb_cadastro")
+@NoArgsConstructor
+@AllArgsConstructor
+@Data
 public class NinjaModel {
 
     @Id
